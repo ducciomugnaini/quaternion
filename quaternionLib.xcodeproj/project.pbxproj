@@ -1,0 +1,265 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D44F42191D071025008821FE /* sptPhQuintic.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D44F42171D071025008821FE /* sptPhQuintic.cpp */; };
+		D44F422F1D09AC4B008821FE /* readWriteLib.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D44F422D1D09AC4B008821FE /* readWriteLib.cpp */; };
+		D45717661CEFCB4900118F2F /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D45717651CEFCB4900118F2F /* main.cpp */; };
+		D457176F1CEFCE6C00118F2F /* quaternion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D457176D1CEFCE6C00118F2F /* quaternion.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		D45717601CEFCB4900118F2F /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		D44F42171D071025008821FE /* sptPhQuintic.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = sptPhQuintic.cpp; sourceTree = "<group>"; };
+		D44F42181D071025008821FE /* sptPhQuintic.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = sptPhQuintic.hpp; sourceTree = "<group>"; };
+		D44F422D1D09AC4B008821FE /* readWriteLib.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = readWriteLib.cpp; sourceTree = "<group>"; };
+		D44F422E1D09AC4B008821FE /* readWriteLib.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = readWriteLib.hpp; sourceTree = "<group>"; };
+		D45717621CEFCB4900118F2F /* quaternionLib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = quaternionLib; sourceTree = BUILT_PRODUCTS_DIR; };
+		D45717651CEFCB4900118F2F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D457176D1CEFCE6C00118F2F /* quaternion.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = quaternion.cpp; sourceTree = "<group>"; };
+		D457176E1CEFCE6C00118F2F /* quaternion.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = quaternion.hpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D457175F1CEFCB4900118F2F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D45717591CEFCB4900118F2F = {
+			isa = PBXGroup;
+			children = (
+				D45717641CEFCB4900118F2F /* quaternionLib */,
+				D45717631CEFCB4900118F2F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D45717631CEFCB4900118F2F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D45717621CEFCB4900118F2F /* quaternionLib */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D45717641CEFCB4900118F2F /* quaternionLib */ = {
+			isa = PBXGroup;
+			children = (
+				D45717651CEFCB4900118F2F /* main.cpp */,
+				D457176E1CEFCE6C00118F2F /* quaternion.hpp */,
+				D457176D1CEFCE6C00118F2F /* quaternion.cpp */,
+				D44F42181D071025008821FE /* sptPhQuintic.hpp */,
+				D44F42171D071025008821FE /* sptPhQuintic.cpp */,
+				D44F422E1D09AC4B008821FE /* readWriteLib.hpp */,
+				D44F422D1D09AC4B008821FE /* readWriteLib.cpp */,
+			);
+			path = quaternionLib;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D45717611CEFCB4900118F2F /* quaternionLib */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D45717691CEFCB4900118F2F /* Build configuration list for PBXNativeTarget "quaternionLib" */;
+			buildPhases = (
+				D457175E1CEFCB4900118F2F /* Sources */,
+				D457175F1CEFCB4900118F2F /* Frameworks */,
+				D45717601CEFCB4900118F2F /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = quaternionLib;
+			productName = quaternionLib;
+			productReference = D45717621CEFCB4900118F2F /* quaternionLib */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D457175A1CEFCB4900118F2F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Duccio Mugnaini";
+				TargetAttributes = {
+					D45717611CEFCB4900118F2F = {
+						CreatedOnToolsVersion = 7.3;
+					};
+				};
+			};
+			buildConfigurationList = D457175D1CEFCB4900118F2F /* Build configuration list for PBXProject "quaternionLib" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D45717591CEFCB4900118F2F;
+			productRefGroup = D45717631CEFCB4900118F2F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D45717611CEFCB4900118F2F /* quaternionLib */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D457175E1CEFCB4900118F2F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D45717661CEFCB4900118F2F /* main.cpp in Sources */,
+				D457176F1CEFCE6C00118F2F /* quaternion.cpp in Sources */,
+				D44F42191D071025008821FE /* sptPhQuintic.cpp in Sources */,
+				D44F422F1D09AC4B008821FE /* readWriteLib.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		D45717671CEFCB4900118F2F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		D45717681CEFCB4900118F2F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		D457176A1CEFCB4900118F2F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		D457176B1CEFCB4900118F2F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D457175D1CEFCB4900118F2F /* Build configuration list for PBXProject "quaternionLib" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D45717671CEFCB4900118F2F /* Debug */,
+				D45717681CEFCB4900118F2F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D45717691CEFCB4900118F2F /* Build configuration list for PBXNativeTarget "quaternionLib" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D457176A1CEFCB4900118F2F /* Debug */,
+				D457176B1CEFCB4900118F2F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D457175A1CEFCB4900118F2F /* Project object */;
+}

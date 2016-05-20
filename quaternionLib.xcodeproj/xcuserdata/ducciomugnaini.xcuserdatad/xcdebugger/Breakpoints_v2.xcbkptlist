@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quaternionLib/sptPhQuintic.cpp"
+            timestampString = "488208465.084325"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "sptPhQuintic::sptPhQuintic(qtn A0, qtn A1, qtn A2, double p0[3])"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quaternionLib/sptPhQuintic.cpp"
+            timestampString = "488208465.084325"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "sptPhQuintic::sptPhQuintic(qtn A0, qtn A1, qtn A2, double p0[3])"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quaternionLib/sptPhQuintic.cpp"
+            timestampString = "488208465.084325"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "sptPhQuintic::sptPhQuintic(qtn A0, qtn A2, double p0[3], double c0, double c2)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sptPhQuintic::sptPhQuintic(quaternion, quaternion, double*, double, double)"
+                  moduleName = "quaternionLib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ducciomugnaini/Documents/workspace_xcode_c/quaternionLib/quaternionLib/sptPhQuintic.cpp"
+                  timestampString = "487839707.695459"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "747">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sptPhQuintic::sptPhQuintic(quaternion, quaternion, double*, double, double)"
+                  moduleName = "quaternionLib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ducciomugnaini/Documents/workspace_xcode_c/quaternionLib/quaternionLib/sptPhQuintic.cpp"
+                  timestampString = "487839707.697287"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "779">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sptPhQuintic::sptPhQuintic(quaternion, quaternion, double*, double, double)"
+                  moduleName = "quaternionLib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ducciomugnaini/Documents/workspace_xcode_c/quaternionLib/quaternionLib/sptPhQuintic.cpp"
+                  timestampString = "487839707.697409"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "747">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sptPhQuintic::sptPhQuintic(quaternion, quaternion, double*, double, double)"
+                  moduleName = "quaternionLib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ducciomugnaini/Documents/workspace_xcode_c/quaternionLib/quaternionLib/sptPhQuintic.cpp"
+                  timestampString = "487839707.697491"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "779">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quaternionLib/sptPhQuintic.cpp"
+            timestampString = "488208465.084325"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "sptPhQuintic::sptPhQuintic(qtn A0, qtn A2, double p0[3], double c0, double c2)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sptPhQuintic::sptPhQuintic(quaternion, quaternion, double*, double, double)"
+                  moduleName = "quaternionLib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ducciomugnaini/Documents/workspace_xcode_c/quaternionLib/quaternionLib/sptPhQuintic.cpp"
+                  timestampString = "487839972.626398"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "741">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sptPhQuintic::sptPhQuintic(quaternion, quaternion, double*, double, double)"
+                  moduleName = "quaternionLib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ducciomugnaini/Documents/workspace_xcode_c/quaternionLib/quaternionLib/sptPhQuintic.cpp"
+                  timestampString = "487839972.626512"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "741">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quaternionLib/sptPhQuintic.cpp"
+            timestampString = "488208465.084325"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "sptPhQuintic::sptPhQuintic(qtn A0, qtn A2, double p0[3], double c0, double c2)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sptPhQuintic::sptPhQuintic(quaternion, quaternion, double*, double, double)"
+                  moduleName = "quaternionLib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ducciomugnaini/Documents/workspace_xcode_c/quaternionLib/quaternionLib/sptPhQuintic.cpp"
+                  timestampString = "487840661.963899"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "741">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sptPhQuintic::sptPhQuintic(quaternion, quaternion, double*, double, double)"
+                  moduleName = "quaternionLib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ducciomugnaini/Documents/workspace_xcode_c/quaternionLib/quaternionLib/sptPhQuintic.cpp"
+                  timestampString = "487840661.964065"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "741">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quaternionLib/sptPhQuintic.cpp"
+            timestampString = "488208465.084325"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "sptPhQuintic::sptPhQuintic(double pi[3], double pf[3], double di[3], double df[3], double tht0, double tht2)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quaternionLib/sptPhQuintic.cpp"
+            timestampString = "488208465.084325"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "sptPhQuintic::sptPhQuintic(double pi[3], double pf[3], double di[3], double df[3], double tht0, double tht2)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quaternionLib/sptPhQuintic.cpp"
+            timestampString = "488208465.084325"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "sptPhQuintic::sptPhQuintic(double pi[3], double pf[3], double di[3], double df[3], double tht0, double tht2)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quaternionLib/sptPhQuintic.cpp"
+            timestampString = "488208465.084325"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "sptPhQuintic::sptPhQuintic(double pi[3], double pf[3], double di[3], double df[3], double tht0, double tht2)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quaternionLib/sptPhQuintic.cpp"
+            timestampString = "488208465.084325"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "sptPhQuintic::sptPhQuintic(qtn A0, qtn A1, qtn A2, double p0[3])"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quaternionLib/main.cpp"
+            timestampString = "488190258.739987"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "main(int argc, const char * argv[])"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quaternionLib/sptPhQuintic.cpp"
+            timestampString = "488208465.084325"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "sptPhQuintic::init(qtn A0, qtn A1, qtn A2, double p0[3])"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quaternionLib/main.cpp"
+            timestampString = "488208083.446787"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "main(int argc, const char * argv[])"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quaternionLib/main.cpp"
+            timestampString = "488208083.446787"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "main(int argc, const char * argv[])"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quaternionLib/sptPhQuintic.cpp"
+            timestampString = "488216856.182126"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "612"
+            endingLineNumber = "612"
+            landmarkName = "sptPhQuintic::plotOnFile(std::string fileName, int nStep, char* rwMode)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            condition = "i == (nStep-1)"
+            continueAfterRunningActions = "No"
+            filePath = "quaternionLib/sptPhQuintic.cpp"
+            timestampString = "488213403.858209"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "340"
+            endingLineNumber = "340"
+            landmarkName = "sptPhQuintic::evaluatePH(int nStep)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
